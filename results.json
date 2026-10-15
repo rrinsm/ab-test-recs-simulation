@@ -1,0 +1,31 @@
+{
+  "n_control": 100263,
+  "n_treatment": 99737,
+  "srm_p": 0.2395262484104772,
+  "baseline_ctr": 0.25745289887595624,
+  "n_needed_mde_3pct": 50792,
+  "n_needed_mde_5pct": 18399,
+  "ctr_diff_abs": 0.03152711856992646,
+  "ctr_rel_lift_pct": 12.245781153591363,
+  "ctr_ci95": [
+    0.027623411498712547,
+    0.035430825641140376
+  ],
+  "ctr_p": 0.0,
+  "sessions_welch_p": 0.0004381118850695836,
+  "sessions_lift_pct": 1.2057531686794132,
+  "sessions_cuped_p": 1.0438244882896867e-12,
+  "cuped_var_reduction_pct": 74.11652698285283,
+  "cuped_corr": 0.8609095596103723,
+  "sessions_cuped_boot_ci95": [
+    0.05974915010221458,
+    0.10551085341974961
+  ],
+  "support_p": 0.4225189746036443,
+  "holm_adjusted_p": {
+    "ctr": 0.0,
+    "sessions_cuped": 2.0876489765793735e-12,
+    "support": 0.4225189746036443
+  },
+  "aa_false_positive_rate": 0.056
+}
